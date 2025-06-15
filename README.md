@@ -29,6 +29,3 @@ python spyder_optimize_balik.py
 
 ZEYNEP AY
 
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. 
