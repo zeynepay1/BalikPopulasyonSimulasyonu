@@ -27,7 +27,7 @@ python spyder_optimize_balik.py
 
 ## Geliştirici
 
-[Adınız Soyadınız]
+ZEYNEP AY
 
 ## Lisans
 
